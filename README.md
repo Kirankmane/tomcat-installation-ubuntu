@@ -1,1 +1,1 @@
-# tomcat-redhat
+# tomcat-ubuntu
